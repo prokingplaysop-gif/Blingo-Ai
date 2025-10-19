@@ -1,0 +1,7 @@
+{
+  "name": "Blingo Enhancer",
+  "description": "An AI-powered photo quality improver. Upload a photo, enhance it with AI to improve brightness, sharpness, and resolution, and save the result to your device.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
